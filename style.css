@@ -1,0 +1,23 @@
+#ecd{
+    width: 300px;
+    height: 280px;
+}
+#start{
+    height:50px;
+    width: 70px;
+    font-size: 30px;
+}
+.bob_area{
+    background-color: blueviolet;
+    font-family: 'Times New Roman', Times, serif;
+}
+h3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: deeppink;
+}
+.footer{
+    text-align: center;
+    font-size: 100px;
+    color: royalblue;
+    background-color:goldenrod ;
+}
